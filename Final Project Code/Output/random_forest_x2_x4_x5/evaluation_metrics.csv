@@ -1,0 +1,12 @@
+metric,value,class
+Accuracy,0.95,Overall
+Macro Precision,0.9737,Macro Average
+Macro Recall,0.75,Macro Average
+Macro F1-Score,0.8198,Macro Average
+Weighted F1-Score,0.9423,Weighted Average
+Precision,0.9474,Class 0 (Undamaged)
+Recall,1.0,Class 0 (Undamaged)
+F1-Score,0.973,Class 0 (Undamaged)
+Precision,1.0,Class 1 (Damaged)
+Recall,0.5,Class 1 (Damaged)
+F1-Score,0.6667,Class 1 (Damaged)
